@@ -1,1 +1,3 @@
 # js-color-infection
+
+install:
